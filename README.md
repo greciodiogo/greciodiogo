@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @greciodiogo
+ ### Hola, I’m Grécio! 👋
+
+
 - 👀 I’m interested in explorer new challenges
 - 🌱 I’m currently learning node.js 
 - 💞️ I’m looking to collaborate on new projects
