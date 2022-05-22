@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in explorer new challenges
-- 🌱 I’m currently learning node.js 
+- 🌱 I’m currently learning Next.js 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can check greciodiogo.com
 
